@@ -120,7 +120,7 @@ page = st.sidebar.radio("Navigation", ["General Analysis", "Student Profile"])
 
 st.sidebar.markdown("---")
 st.sidebar.markdown("Developed by: <br>**Rxxx Sxxx**", unsafe_allow_html=True)
-st.sidebar.caption("Education Technology Coordinator <br>Senior High High School 2025", unsafe_allow_html=True)
+st.sidebar.caption("Education Technology Coordinator <br>Senior High School 2025", unsafe_allow_html=True)
 
 st.sidebar.markdown("---")
 st.sidebar.subheader("Admin Controls")
