@@ -98,6 +98,7 @@ SUBJECT_NAME_MAPPING = {
     'Komunikasyon': 'Komunikasyon at Pananaliksik sa Wika at Kulturang Filipino',
     'Komunikasyon at Pananaliksik': 'Komunikasyon at Pananaliksik sa Wika at Kulturang Filipino',
     'Oral Communication': 'Oral Communication in Context',
+    'Oral Communiation in Context': 'Oral Communication in Context',
     'Pagbasa at Pagsusuri ng Ibat Ibang Teksto Tungo sa Pananaliksik': 'Pagbasa at Pagsusuri ng Iba\'t Ibang Teksto Tungo sa Pananaliksik',
     'Reading and Writing': 'Reading and Writing Skills',
     'Statistics and Probability (STEM)': 'Statistics and Probability',
